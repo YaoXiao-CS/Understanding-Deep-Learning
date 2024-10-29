@@ -7,7 +7,7 @@
 </p>
 
 ```shell
-# 这里是引文链接.
+# 这里是引文.
 @book{prince2023understanding,
 author = "Simon J.D. Prince",
 title = "Understanding Deep Learning",
@@ -21,7 +21,7 @@ url = "http://udlbook.com"
 
 | 编号 |      名称      | 内容概要 |                                                                          在线链接                                                                          |
 | :--: | :------------: | -------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
-|  00  |      前言      | 数学基础 | [Open in Jupyter nbviewer](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Kalman-and-Bayesian-Filters-in-Python/main/00-Preface.ipynb) |
+|  00  |      前言      | 数学基础 | [Open in Jupyter nbviewer](https://nbviewer.jupyter.org/urls/raw.githubusercontent.com/YaoXiao-CS/Understanding-Deep-Learning/main/Chapter01/1_1_BackgroundMathematics.ipynb) |
 |  01  | The g-h Filter |          |                                                                            TODO                                                                            |
 |  02  |                |          |                                                                            TODO                                                                            |
 |  03  |                |          |                                                                            TODO                                                                            |
